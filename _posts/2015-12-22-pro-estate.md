@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Your Real Estate. Our Business.
-datePublished: '2015-12-22T13:00:48.427Z'
-dateModified: '2015-12-22T13:00:11.190Z'
+datePublished: '2015-12-22T13:05:03.212Z'
+dateModified: '2015-12-22T13:02:45.331Z'
 title: 'PRO ESTATE '
 author: []
 authors: []
