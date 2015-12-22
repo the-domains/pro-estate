@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Your Real Estate. Our Business.]]></title>
         <description><![CDATA[Your Real Estate. Our Business.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pro-estate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 12:35:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 12:39:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pro-estate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Heronderhandelen]]></title>
+            <description><![CDATA[<article><h1>Heronderhandelen</h1><p>Voor het aflopen van elke huurtermijn is het zeer zinvol om te onderhandelen met de verhuurder in plaats van stilzwijgend te verlengen. Uw huurcontract bepaalt in grote de waarde van het vastgoed en dus is uw handtekening onder een nieuw contract de verhuurder heel wat waard. PRO ESTATE onderhandelt voor u over commerciële-, huurvoorwaarden op basis van een huurdersvriendelijk contract met flexibilisering van de einddatum of een aanpassing van het te huren metrage.</p></article>]]></description>
+            <link>https://thegrid.ai/pro-estate/heronderhandelen/index.html</link>
+            <guid isPermaLink="false">bc354295-d73c-452c-bf4e-04fad919a46a</guid>
+            <pubDate>Tue, 22 Dec 2015 12:38:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wilt u kantoor- of bedrijfsruimte huren? PRO ESTATE helpt u als betrokken adviseur bij het vinden van passende huisvesting voor uw bedrijf. PRO ESTATE begeleidt u en uw organisatie tijdens het gehele huurtraject: van de start met een marktverkenning en de bezichtiging tot de commerciële onderhandeling en feitelijke contractvorming op basis van een huurdersvriendelijk contract. PRO ESTATE werkt als onafhankelijk vastgoedadviseur uitsluitend voor zakelijke huurders.]]></title>
             <description><![CDATA[<article><h1>Wilt u kantoor- of bedrijfsruimte huren? PRO ESTATE helpt u als betrokken adviseur bij het vinden van passende huisvesting voor uw bedrijf. PRO ESTATE begeleidt u en uw organisatie tijdens het gehele huurtraject: van de start met een marktverkenning en de bezichtiging tot de commerciële onderhandeling en feitelijke contractvorming op basis van een huurdersvriendelijk contract. PRO ESTATE werkt als onafhankelijk vastgoedadviseur uitsluitend voor zakelijke huurders.</h1><p>Wilt u kantoor- of bedrijfsruimte huren?</p></article>]]></description>
-            <link>undefinedhuren/index.html</link>
+            <link>https://thegrid.ai/pro-estate/huren/index.html</link>
             <guid isPermaLink="false">7adc2d56-64e9-4c1a-b2d3-09cecd81fc1a</guid>
             <pubDate>Tue, 22 Dec 2015 12:34:27 GMT</pubDate>
         </item>
