@@ -1,0 +1,28 @@
+name: PRO ESTATE
+favicon: null
+layout_spectrum: 0.9389389280695468
+typography_spectrum: 0.1680414048023522
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6700630669947714
+  lightness: 0.03868787712417543
+  saturation: 0.0053054108284413815
+  rhythmicContrast: 0.7626746450550854
+purpose: []
